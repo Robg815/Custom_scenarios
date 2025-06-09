@@ -640,7 +640,7 @@
    </AABB>
   </Item>
   <Item type="CScenarioPointRegionDef">
-   <Name>platform:/levels/gta5/scenario/pillbox_hill</Name>
+   <Name>compcache:/custom_scenarios/pillbox_hill</Name>
    <AABB>
     <min x="-266.560364" y="-1123.07666" z="8.148654" />
     <max x="405.2953" y="-423.2211" z="178.1748" />
