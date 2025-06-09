@@ -4,7 +4,7 @@ local resourceName = GetCurrentResourceName()
 local localVersionFile = LoadResourceFile(resourceName, "version.txt")
 local localVersion = localVersionFile and localVersionFile:match("[^\r\n]+")
 
-local githubRawURL = "https://raw.githubusercontent.com/YourGitHubUsername/your-repo/main/version.txt"
+local githubRawURL = "https://raw.githubusercontent.com/Robg815/Custom_scenarios/refs/heads/main/custom_scenarios/version.txt"
 
 PerformHttpRequest(githubRawURL, function(statusCode, response, headers)
     if statusCode == 200 then
