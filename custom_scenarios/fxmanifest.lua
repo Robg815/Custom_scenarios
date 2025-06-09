@@ -2,7 +2,7 @@ fx_version "cerulean"
 game "gta5"
 
 author 'Smokey'
-description 'Custom Scenarios Made for @Eddy'
+description 'Custom Scenarios'
 version '1.0'
 
 
